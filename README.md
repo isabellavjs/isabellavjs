@@ -1,4 +1,4 @@
-## Hello world! :wave:
+### Hello world! :wave:
 
 I am a Software Developer graduated from [Trybe](https://www.betrybe.com/) aiming to specialise in Data Engineering. I love travelling and meeting people from different cultures and backgrounds. Living abroad in four different countries broadened my worldview and inspired me to be someone in continuous learning. I am part of [Elas Codam](https://www.instagram.com/elascodam/) a women community who supports each other in Technology :purple_heart:.
 
