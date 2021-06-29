@@ -7,8 +7,9 @@ JavaScript | Python | ReactJS | Jest | CSS | HTML | SQL | NoSQL | NodeJS
 
 ### Where to find me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivjs/)](www.linkedin.com/in/ivjs/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabellavjs/)](https://www.linkedin.com/in/isabellavjs/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabellavjs@gmail.com)](mailto:isabellavjs@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/bellajoviano/)](https://www.instagram.com/bellajoviano/)
 
 [![Isabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellavjs)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellavjs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
