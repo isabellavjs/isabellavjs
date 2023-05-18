@@ -1,10 +1,10 @@
 ### Hello world! :wave:
 
-I am a Software Developer graduated from [Trybe](https://www.betrybe.com/) aiming to specialise in Data Engineering. I love travelling and meeting people from different cultures and backgrounds. Living abroad in four different countries broadened my worldview and inspired me to be someone in continuous learning. I am part of [Elas Codam](https://www.instagram.com/elascodam/) a women community who supports each other in Technology :purple_heart:.
+I am a data analytics engineer at Trybe. I love travelling and meeting people from different cultures and backgrounds. Living abroad in four different countries broadened my worldview and inspired me to be someone in continuous learning.
 
 My passions are linked with well-being practices, mainly playing my ukulele, practicing sports and being in contact with nature.
 
-JavaScript | Python | ReactJS | Jest | CSS | HTML | SQL | NoSQL | NodeJS
+JavaScript | Python | ReactJS | Jest | CSS | HTML | SQL | NoSQL | NodeJS | Spark | Databricks
 
 ### Where to find me :raised_hand:
 
