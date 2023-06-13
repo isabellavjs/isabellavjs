@@ -1,6 +1,6 @@
 ### Hello world! :wave:
 
-I am a data analytics engineer at Trybe. I love travelling and meeting people from different cultures and backgrounds. Living abroad in four different countries broadened my worldview and inspired me to be someone in continuous learning.
+I am a data and analytics engineer. I love travelling and meeting people from different cultures and backgrounds. Living abroad in four different countries broadened my worldview and inspired me to be someone in continuous learning.
 
 My passions are linked with well-being practices, mainly playing my ukulele, practicing sports and being in contact with nature.
 
